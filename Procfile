@@ -1,1 +1,1 @@
-web: gunicorn Club-Portal.wsgi --log-file -
+web: gunicorn firstdjango.wsgi --log-file -
